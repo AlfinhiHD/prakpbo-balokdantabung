@@ -6,5 +6,5 @@ Nama : Alfinhi Hajid Dhia
 
 NIM  : 123200142
 
-Kelas: F
+Kelas: D
 
